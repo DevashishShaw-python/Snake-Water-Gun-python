@@ -30,7 +30,7 @@ A simple Python console game built during my learning journey.
 3. The computer will randomly choose.
 
 4. The winner will be displayed on the screen.
-python snake_water_gun.py
+
 
 ---
 
